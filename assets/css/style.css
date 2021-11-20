@@ -6403,6 +6403,12 @@ textarea.form-control {
   margin-top: 8px;
 }
 
+.row .custom{
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  text-align: center;
+}
 .events .post-item .post__meta-tag {
   position: absolute;
   top: 20px;
